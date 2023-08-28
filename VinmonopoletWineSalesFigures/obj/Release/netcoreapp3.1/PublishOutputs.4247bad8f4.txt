@@ -1,0 +1,6 @@
+/Users/anamikasingh/git/VinmonopoletWineSalesFigures
+/Users/anamikasingh/git/VinmonopoletWineSalesFigures.dll
+/Users/anamikasingh/git/VinmonopoletWineSalesFigures.deps.json
+/Users/anamikasingh/git/VinmonopoletWineSalesFigures.runtimeconfig.json
+/Users/anamikasingh/git/VinmonopoletWineSalesFigures.pdb
+/Users/anamikasingh/git/Newtonsoft.Json.dll
